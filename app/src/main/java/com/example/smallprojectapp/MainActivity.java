@@ -17,4 +17,8 @@ public class MainActivity extends AppCompatActivity {
     public static int test2(int x){
         return x+2;
     }
+
+    public static int test3(int x){
+        return x+3;
+    }
 }
